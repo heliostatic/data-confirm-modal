@@ -14,7 +14,7 @@ certain value, for extra willingness confirmation (inspired by GitHub's
 
 Add this line to your application's Gemfile:
 
-    gem 'data-confirm-modal', github: 'ifad/data-confirm-modal'
+    gem 'data-confirm-modal', github: 'heliostatic/data-confirm-modal'
 
 Then execute:
 
