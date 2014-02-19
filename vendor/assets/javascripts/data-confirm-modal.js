@@ -109,7 +109,7 @@
     modal.data('confirmed', false);
     commit.on('click', function () {
       modal.data('confirmed', true);
-      element.trigger('click');
+      element[0].click();
       modal.modal('hide');
     });
 
